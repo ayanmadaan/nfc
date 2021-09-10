@@ -8,7 +8,7 @@ function Navbar() {
         <ul className="navbar-nav">
           <li className="logo">
             <a href="#" className="nav-link">
-              <span className="link-text logo-text">NFT Loan</span>
+              <span className="link-text logo-text">Flix</span>
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -60,7 +60,7 @@ function Navbar() {
                   ></path>
                 </g>
               </svg>
-              <span className="link-text">Kitties</span>
+              <span className="link-text">Movies</span>
             </a>
           </li>
 
@@ -89,7 +89,7 @@ function Navbar() {
                   ></path>
                 </g>
               </svg>
-              <span className="link-text">Punks</span>
+              <span className="link-text">TV Series</span>
             </a>
           </li>
 
@@ -118,7 +118,7 @@ function Navbar() {
                   ></path>
                 </g>
               </svg>
-              <span className="link-text">Blah</span>
+              <span className="link-text">Account</span>
             </a>
           </li>
 
@@ -147,7 +147,7 @@ function Navbar() {
                   ></path>
                 </g>
               </svg>
-              <span className="link-text">Rocket</span>
+              <span className="link-text">Logout</span>
             </a>
           </li>
 

@@ -89,3 +89,16 @@ img {
 .card:hover p {
   transform: translateY(-20px) translateX(-50px);
 }
+
+.invb {
+  background-image: linear-gradient(
+    to top right,
+    rgba(65, 54, 241, 1),
+    rgba(208, 48, 211, 1)
+  );
+}
+
+.inv {
+  background: black;
+  box-shadow: -15px 0 45px rgba(131, 131, 131, 0.411);
+}
